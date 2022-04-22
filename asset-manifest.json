@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/soniah770/App-design-Using-Tailwind-React/static/css/main.84abadc6.css",
+    "main.js": "/soniah770/App-design-Using-Tailwind-React/static/js/main.6a0984be.js",
+    "static/media/video.mp4": "/soniah770/App-design-Using-Tailwind-React/static/media/video.a2703484bb9eee7d0c2e.mp4",
+    "index.html": "/soniah770/App-design-Using-Tailwind-React/index.html",
+    "main.84abadc6.css.map": "/soniah770/App-design-Using-Tailwind-React/static/css/main.84abadc6.css.map",
+    "main.6a0984be.js.map": "/soniah770/App-design-Using-Tailwind-React/static/js/main.6a0984be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84abadc6.css",
+    "static/js/main.6a0984be.js"
+  ]
+}
